@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(46, 46, 31);
+}
+a{
+  align-self: center;
+}
+h4{
+  text-align: center;
+}
+p{
+  text-align: justify;
+}
+h2{
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+}
